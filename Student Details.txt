@@ -1,0 +1,4 @@
+Student Details
+Name: Gokavarapu Gayatri Siva Surya Sri Gopika
+Course: BCA
+I have learned how to store files in the GitHub.
